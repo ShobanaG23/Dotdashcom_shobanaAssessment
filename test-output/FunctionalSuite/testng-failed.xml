@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FunctionalSuite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testCases.Tc007_DynamicContentTest">
+        <methods>
+          <include name="DynamicContentTest2"/>
+          <include name="setup"/>
+          <include name="DynamicContentTest3"/>
+        </methods>
+      </class> <!-- testCases.Tc007_DynamicContentTest -->
+      <class name="testCases.Tc009_DynamicLoadTest">
+        <methods>
+          <include name="setup"/>
+          <include name="DynamicLoadTest"/>
+        </methods>
+      </class> <!-- testCases.Tc009_DynamicLoadTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [FunctionalSuite] -->

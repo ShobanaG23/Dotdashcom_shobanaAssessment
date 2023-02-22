@@ -1,0 +1,129 @@
+[INFO ] 22-02-2023 12:10:25.376 Tc001_LoginSuccess - Assertion Pass : Message matches.
+[INFO ] 22-02-2023 12:10:29.089 Tc002_LoginFailure - Assertion Pass: Failure message matches
+[INFO ] 22-02-2023 12:10:32.429 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 12:10:32.572 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 12:10:36.803 Tc004_contextMenu - Assertion pass: message matches.
+[INFO ] 22-02-2023 12:10:44.843 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 12:10:50.020 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 12:11:43.807 Tc011_FileUploadTest - file name matches
+[INFO ] 22-02-2023 12:11:46.945 Tc012_FloatingMenuTest - Assertion Pass
+[INFO ] 22-02-2023 12:11:51.866 Tc013_iframeTest - Text entered matches.
+[INFO ] 22-02-2023 12:11:55.650 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 12:11:55.977 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 12:11:56.332 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 12:12:00.000 Tc015_JavaScriptAlertsTest - Js_Alert message matches.
+[INFO ] 22-02-2023 12:12:00.131 Tc015_JavaScriptAlertsTest - Js_Confirm message matches.
+[INFO ] 22-02-2023 12:12:00.274 Tc015_JavaScriptAlertsTest - Js_Prompt text entered in alert matches.
+[INFO ] 22-02-2023 12:12:07.612 Tc017_windowsTest - text matches
+[INFO ] 22-02-2023 12:12:19.429 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:12:26.966 Tc008_DynamicControlTest - Message displayed : It's gone!
+[INFO ] 22-02-2023 12:12:30.432 Tc008_DynamicControlTest - Message displayed : It's back!
+[INFO ] 22-02-2023 12:12:45.358 Tc008_DynamicControlTest - Message displayed : It's enabled!
+[INFO ] 22-02-2023 12:12:48.591 Tc008_DynamicControlTest - Message displayed : It's disabled!
+[INFO ] 22-02-2023 12:21:19.819 Tc001_LoginSuccess - Assertion Pass : Message matches.
+[INFO ] 22-02-2023 12:21:22.549 Tc002_LoginFailure - Assertion Pass: Failure message matches
+[INFO ] 22-02-2023 12:21:24.755 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 12:21:24.891 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 12:21:27.641 Tc004_contextMenu - Assertion pass: message matches.
+[INFO ] 22-02-2023 12:21:34.144 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 12:21:39.295 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 12:22:24.395 Tc011_FileUploadTest - file name matches
+[INFO ] 22-02-2023 12:22:27.010 Tc012_FloatingMenuTest - Assertion Pass
+[INFO ] 22-02-2023 12:22:30.285 Tc013_iframeTest - Text entered matches.
+[INFO ] 22-02-2023 12:22:32.923 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 12:22:33.237 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 12:22:33.501 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 12:22:36.608 Tc015_JavaScriptAlertsTest - Js_Alert message matches.
+[INFO ] 22-02-2023 12:22:36.755 Tc015_JavaScriptAlertsTest - Js_Confirm message matches.
+[INFO ] 22-02-2023 12:22:36.877 Tc015_JavaScriptAlertsTest - Js_Prompt text entered in alert matches.
+[INFO ] 22-02-2023 12:22:45.822 Tc017_windowsTest - text matches
+[INFO ] 22-02-2023 12:22:56.005 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:23:02.869 Tc008_DynamicControlTest - Message displayed : It's gone!
+[INFO ] 22-02-2023 12:23:06.300 Tc008_DynamicControlTest - Message displayed : It's back!
+[INFO ] 22-02-2023 12:23:23.426 Tc008_DynamicControlTest - Message displayed : It's enabled!
+[INFO ] 22-02-2023 12:23:26.766 Tc008_DynamicControlTest - Message displayed : It's disabled!
+[INFO ] 22-02-2023 12:53:45.688 Tc008_DynamicControlTest - Message displayed : It's gone!
+[INFO ] 22-02-2023 12:53:48.881 Tc008_DynamicControlTest - Message displayed : It's back!
+[INFO ] 22-02-2023 12:53:52.335 Tc008_DynamicControlTest - Message displayed : It's enabled!
+[INFO ] 22-02-2023 12:53:55.541 Tc008_DynamicControlTest - Message displayed : It's disabled!
+[INFO ] 22-02-2023 12:54:30.493 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:54:32.984 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:55:37.148 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:55:39.603 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:55:42.125 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:56:34.309 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:56:38.967 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 12:59:23.609 Tc001_LoginSuccess - Assertion Pass : Message matches.
+[INFO ] 22-02-2023 12:59:26.586 Tc002_LoginFailure - Assertion Pass: Failure message matches
+[INFO ] 22-02-2023 12:59:28.942 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 12:59:29.069 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 12:59:36.440 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 12:59:41.603 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 01:00:35.504 Tc011_FileUploadTest - file name matches
+[INFO ] 22-02-2023 01:00:39.137 Tc012_FloatingMenuTest - Assertion Pass
+[INFO ] 22-02-2023 01:00:43.643 Tc013_iframeTest - Text entered matches.
+[INFO ] 22-02-2023 01:00:46.837 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:00:47.160 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:00:47.440 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:01:00.044 Tc017_windowsTest - text matches
+[INFO ] 22-02-2023 01:01:10.419 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 01:01:17.304 Tc008_DynamicControlTest - Message displayed : It's gone!
+[INFO ] 22-02-2023 01:01:20.794 Tc008_DynamicControlTest - Message displayed : It's back!
+[INFO ] 22-02-2023 01:01:37.809 Tc008_DynamicControlTest - Message displayed : It's enabled!
+[INFO ] 22-02-2023 01:01:41.135 Tc008_DynamicControlTest - Message displayed : It's disabled!
+[INFO ] 22-02-2023 01:07:30.929 Tc001_LoginSuccess - Assertion Pass : Message matches.
+[INFO ] 22-02-2023 01:07:35.535 Tc002_LoginFailure - Assertion Pass: Failure message matches
+[INFO ] 22-02-2023 01:08:33.190 Tc001_LoginSuccess - Assertion Pass : Message matches.
+[INFO ] 22-02-2023 01:08:36.793 Tc002_LoginFailure - Assertion Pass: Failure message matches
+[INFO ] 22-02-2023 01:08:39.835 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 01:08:39.984 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 01:09:09.209 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 01:09:14.441 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 01:09:21.928 Tc008_DynamicControlTest - Message displayed : It's gone!
+[INFO ] 22-02-2023 01:09:25.456 Tc008_DynamicControlTest - Message displayed : It's back!
+[INFO ] 22-02-2023 01:09:32.259 Tc008_DynamicControlTest - Message displayed : It's enabled!
+[INFO ] 22-02-2023 01:09:35.578 Tc008_DynamicControlTest - Message displayed : It's disabled!
+[INFO ] 22-02-2023 01:10:28.474 Tc011_FileUploadTest - file name matches
+[INFO ] 22-02-2023 01:10:31.383 Tc012_FloatingMenuTest - Assertion Pass
+[INFO ] 22-02-2023 01:10:36.594 Tc013_iframeTest - Text entered matches.
+[INFO ] 22-02-2023 01:10:40.912 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:10:41.268 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:10:41.662 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:11:04.105 Tc017_windowsTest - text matches
+[INFO ] 22-02-2023 01:15:55.887 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 01:16:00.827 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 01:16:45.784 Tc001_LoginSuccess - Assertion Pass : Message matches.
+[INFO ] 22-02-2023 01:16:50.901 Tc002_LoginFailure - Assertion Pass: Failure message matches
+[INFO ] 22-02-2023 01:16:55.075 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 01:16:55.235 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 01:17:10.446 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 01:17:15.670 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 01:17:24.927 Tc008_DynamicControlTest - Message displayed : It's gone!
+[INFO ] 22-02-2023 01:17:28.692 Tc008_DynamicControlTest - Message displayed : It's back!
+[INFO ] 22-02-2023 01:17:35.446 Tc008_DynamicControlTest - Message displayed : It's enabled!
+[INFO ] 22-02-2023 01:17:38.884 Tc008_DynamicControlTest - Message displayed : It's disabled!
+[INFO ] 22-02-2023 01:18:40.503 Tc011_FileUploadTest - file name matches
+[INFO ] 22-02-2023 01:18:47.055 Tc012_FloatingMenuTest - Assertion Pass
+[INFO ] 22-02-2023 01:18:55.155 Tc013_iframeTest - Text entered matches.
+[INFO ] 22-02-2023 01:18:59.466 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:18:59.787 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:19:00.101 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:19:13.741 Tc017_windowsTest - text matches
+[INFO ] 22-02-2023 01:24:24.433 Tc001_LoginSuccess - Assertion Pass : Message matches.
+[INFO ] 22-02-2023 01:24:27.422 Tc002_LoginFailure - Assertion Pass: Failure message matches
+[INFO ] 22-02-2023 01:24:29.970 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 01:24:30.103 Tc003_Checkboxes - Assertion pass
+[INFO ] 22-02-2023 01:24:41.883 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 01:24:47.484 Tc006_DropDownTest - Selected option is asserted
+[INFO ] 22-02-2023 01:24:56.308 Tc007_DynamicContentTest - Content didnot match beofre and after refresh
+[INFO ] 22-02-2023 01:25:05.115 Tc008_DynamicControlTest - Message displayed : It's gone!
+[INFO ] 22-02-2023 01:25:08.433 Tc008_DynamicControlTest - Message displayed : It's back!
+[INFO ] 22-02-2023 01:25:15.231 Tc008_DynamicControlTest - Message displayed : It's enabled!
+[INFO ] 22-02-2023 01:25:18.953 Tc008_DynamicControlTest - Message displayed : It's disabled!
+[INFO ] 22-02-2023 01:26:10.652 Tc011_FileUploadTest - file name matches
+[INFO ] 22-02-2023 01:26:13.841 Tc012_FloatingMenuTest - Assertion Pass
+[INFO ] 22-02-2023 01:26:18.282 Tc013_iframeTest - Text entered matches.
+[INFO ] 22-02-2023 01:26:22.430 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:26:22.797 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:26:23.138 Tc014_MouseHoverTest - Assertion Pass
+[INFO ] 22-02-2023 01:26:41.379 Tc017_windowsTest - text matches
